@@ -4,6 +4,7 @@ AttGGSNN is an attention-based gated graph sequence neural network, which is bui
 Readme.docx is a document written in Chinese, and it shows how to run the codes.
 
 This is the programs of my thesis for Master of Science in Information Management in National Chiao Tung University.
+The format of citation is : Wei-Chia Huang (2019). "A Question Answering System for Financial Time-Series Correlation Based on Improved Gated Graph Sequence Neural Network with Attention Mechanism". Master's Thesis of Institute of Information Management, Hsinchu: National Chiao Tung University. Retrieved from https://hdl.handle.net/11296/hu4b8r.
 
 `AttGGSNN_1DConv.ipynb` is the main version of my work, which implement my proposed method.
 
