@@ -5,4 +5,6 @@ Readme.docx is a document written in Chinese, and it shows how to run the codes.
 
 This is the programs of my thesis for Master of Science in Information Management in National Chiao Tung University.
 
-`AttGGSNN_1DConv.ipynb` is the main version of my work.
+`AttGGSNN_1DConv.ipynb` is the main version of my work, which implement my proposed method.
+
+`RelationNetwork_Benchmark.ipynb` is the benchmark model for my proposed model - Attention based GGSNN.
