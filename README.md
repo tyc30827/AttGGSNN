@@ -5,8 +5,8 @@ AttGGSNN is an attention-based gated graph sequence neural network, which is bui
 ![image](https://github.com/tyc30827/AttGGSNN/blob/master/Example.PNG)
 V means the multiple time-series sequences for all during a period of time before the predicted timestamp.  
 Q means the question of "Pairwise" companies.  
-A means the answer of the question we set.
-Noted that this is a QA-like system, where the questions are embedded according to the keywords instead of the whole sentence, and the purposed model is used to forecast the future market information such as trend, volatility.  
+A means the answer of the question we set.  
+*Noted that this is a QA-like system, where the questions are embedded according to the keywords instead of the whole sentence, and the purposed model is used to forecast the future market information such as trend, volatility.*  
 
 ### The `System Overview`: 
 ![image](https://github.com/tyc30827/AttGGSNN/blob/master/SystemOverview_AttGGSNN.PNG)
