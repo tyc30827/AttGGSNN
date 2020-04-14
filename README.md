@@ -1,6 +1,16 @@
 # AttGGSNN
 AttGGSNN is an attention-based gated graph sequence neural network, which is built in an end-to-end model to formulate a VQA-like system.
 
+The example of our input data and target is showed below.
+![image](https://github.com/tyc30827/AttGGSNN/blob/master/Example.PNG)
+V means the multiple time-series sequences for all during a period of time before the predicted timestamp.
+Q means the question of "Pairwise" companies.
+A means the answer of the question we set.
+Noted that this is a QA-like system, where the questions are embedded according to the keywords instead of the whole sentence.
+
+The `System Overview` of my model is showed below.
+![image](https://github.com/tyc30827/AttGGSNN/blob/master/SystemOverview_AttGGSNN.PNG)
+
 Readme.docx is a document written in Chinese, and it shows how to run the codes.
 
 This is the programs of my thesis for Master of Science in Information Management in National Chiao Tung University.
